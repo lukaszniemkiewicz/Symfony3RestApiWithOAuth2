@@ -14,8 +14,9 @@ class ApiController extends FOSRestController
      */
     public function indexAction()
     {
+        $user = $user = $this->getUser();
         $data = array("hello" => "world");
-        $view = $this->view($data);
+        $view = $this->view($user);
         return $this->handleView($view);
     }
 }
