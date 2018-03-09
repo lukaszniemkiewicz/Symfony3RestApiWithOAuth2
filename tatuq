@@ -1,0 +1,29 @@
+[33mcommit 6e3bee901858c2906e303e97c05e94c20119677a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: lukasz niemkiewicz <lukasz.niemkiewicz@gmail.com>
+Date:   Thu Mar 8 06:23:44 2018 +0100
+
+    added DoctrineMigrationsBundle
+
+[33mcommit 6efc12fd79dc2aa4235f7944bf63ab5370b5b581[m
+Author: =lukasz niemkiewicz <lukasz.niemkiewicz@gmail.com>
+Date:   Mon Nov 20 18:55:02 2017 +0100
+
+    added nelmio/NelmioCorsBundle to avoid CORS issues
+
+[33mcommit a8c0e1fb521c41f42044d8025cac23812c254b75[m
+Author: =lukasz niemkiewicz <lukasz.niemkiewicz@gmail.com>
+Date:   Mon Nov 20 14:55:40 2017 +0100
+
+    README
+
+[33mcommit e64294cd82588740ecba33549e53fca5c509ccd0[m
+Author: =lukasz niemkiewicz <lukasz.niemkiewicz@gmail.com>
+Date:   Mon Nov 20 14:17:13 2017 +0100
+
+    created sample database dump
+
+[33mcommit 834495efef623020ebf2288dbb2aa1c2f5e43c45[m
+Author: =lukasz niemkiewicz <lukasz.niemkiewicz@gmail.com>
+Date:   Mon Nov 20 14:12:54 2017 +0100
+
+    initial commit
